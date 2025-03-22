@@ -24,4 +24,4 @@ class RestaurantSeeder extends Seeder {
             ]);
         }
     }
-}           
+}               
